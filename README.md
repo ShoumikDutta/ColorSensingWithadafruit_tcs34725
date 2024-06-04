@@ -68,4 +68,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 
-Feel free to customize the `readme.md` file according to your project's specific details and repository structure.
