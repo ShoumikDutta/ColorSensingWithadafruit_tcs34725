@@ -1,3 +1,4 @@
+#this is just a part of the code. I do not have the rights to publish the whole code
 import time
 import board
 import busio
